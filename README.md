@@ -1,6 +1,6 @@
 # Logger Framework
 
-A custom logging framework built with multiple design patterns for learning and demonstration purposes.
+A custom logging framework built with multiple design patterns for learning purposes.
 
 ## 🎯 Quick Start
 
